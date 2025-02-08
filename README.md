@@ -3,6 +3,8 @@
 ## Project Overview
 The **TalentScout Hiring Assistant Chatbot** is designed to assist in the candidate screening process for technology positions. It collects essential candidate details, asks relevant technical questions based on the provided tech stack, and evaluates responses with friendly feedback. The chatbot aims to streamline the initial phases of the hiring process by leveraging a language model to provide an interactive and engaging experience for candidates.
 
+##Demo loom link: https://www.loom.com/share/d400a75f095b4b4f88a6dc7a93984f90?sid=eacf2671-9fd5-495b-a9dc-54fc5ef91e43
+
 ### Capabilities
 - **Candidate Information Gathering**: Collects details such as full name, email, phone number, years of experience, desired position, current location, and tech stack.
 - **Technical Question Generation**: Dynamically generates 5 technical questions based on the candidate's declared tech stack and position.
