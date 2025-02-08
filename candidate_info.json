@@ -1,0 +1,15 @@
+{
+    "Candidate Details": {
+        "Full Name": "sanket choudhary",
+        "Email": "mieselfsanket@gmail.com",
+        "Phone": "6266562022",
+        "Experience": 0,
+        "Position": "nlp engineer",
+        "Location": "indore",
+        "Tech Stack": "Python, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn"
+    },
+    "Interview Questions & Answers": {
+        "1. Define the concept of a tensor and explain how it is used in both TensorFlow and PyTorch.": "tensor is term used in deep learning to present words into numbers",
+        "2. Describe the difference between supervised and unsupervised learning, and provide an example of each type of learning in the context of natural language processing.": "tensor is term used in deep learning to present words into numbers"
+    }
+}
